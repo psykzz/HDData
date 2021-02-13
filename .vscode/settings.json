@@ -1,0 +1,13 @@
+{
+    "Lua.diagnostics.globals": [
+        "CreateFrame",
+        "tinsert",
+        "time",
+        "CalendarFrame_CloseEvent",
+        "C_Calendar",
+        "C_DateAndTime",
+        "UIParent",
+        "UnitExists",
+        "UIParent"
+    ]
+}

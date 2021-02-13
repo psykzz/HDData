@@ -1,0 +1,12 @@
+## Interface: 90002
+## Title: HighDefinition Data
+## Notes: Generate data in HD.
+## Author: PsyKzz
+## Version: 0.0.1
+## Dependencies: Blizzard_Calendar
+## SavedVariablesPerCharacter: HDData
+
+main.lua
+utils.lua
+highdef.lua
+## calendar.lua
