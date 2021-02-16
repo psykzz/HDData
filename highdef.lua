@@ -320,7 +320,7 @@ function HD:InspectUnit(unit)
 		HDData.Inspect[guid] = {
 			name = name,
 			guid = guid,
-			armorClass = inspectInfo[1].itemSubClass,
+			armorClass = inspectInfo[1] and inspectInfo[1].itemSubClass or 'UNKNOWN',
 			updated = time(),
 			inspectInfo = inspectInfo
 		}
